@@ -13,7 +13,7 @@
 > profile
 ```
 
-<img align="left" src="https://i.postimg.cc/Q8CDGY4s/20241206-200201.jpg" width="130px"/> 
+<img align="left" src="https://i.postimg.cc/t4pnVYd8/IMG-20241217-WA0017-1.jpg" width="130px"/> 
 
 ```csharp
 My Profile
